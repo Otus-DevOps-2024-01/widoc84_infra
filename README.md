@@ -1,3 +1,3 @@
-bastion_IP = 158.160.51.188
+testapp_IP = 51.250.85.94
 
-someinternalhost_IP = 10.131.0.7
+testapp_port = 9292
